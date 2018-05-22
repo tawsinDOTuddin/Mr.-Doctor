@@ -1,0 +1,7 @@
+#Mon Mar 13 23:09:02 BDT 2017
+base.0=C\:\\G\\Mr.Doctor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8485d33c685eebb99943933c03afbbcbb826a604
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\G\\Mr.Doctor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_41fc1ad55bbb7bff4b84335bc37b4d0b812ea9a5\\classes.dex
+base.1=C\:\\G\\Mr.Doctor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_41fc1ad55bbb7bff4b84335bc37b4d0b812ea9a5
+file.0=C\:\\G\\Mr.Doctor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8485d33c685eebb99943933c03afbbcbb826a604\\classes.dex
